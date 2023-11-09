@@ -1,0 +1,100 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/SoC_document/CLA_DE2/simulation/modelsim
+vcarry_lookahead_adder
+Z1 !s110 1699411177
+!i10b 1
+!s100 GQ09l4XQWLG3eIFGj4b[I1
+IF9]4Sc:8QUed0K9]ElNjR1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1699270529
+8D:/SoC_document/CLA_DE2/carry_lookahead_adder.v
+FD:/SoC_document/CLA_DE2/carry_lookahead_adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1699411177.000000
+!s107 D:/SoC_document/CLA_DE2/carry_lookahead_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/SoC_document/CLA_DE2|D:/SoC_document/CLA_DE2/carry_lookahead_adder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/SoC_document/CLA_DE2
+Z7 tCvgOpt 0
+vCLA_32bit_TB
+!s110 1699411181
+!i10b 1
+!s100 `0gaV5AaoM]0bUk36cM=:2
+IQ;37kJz4mo5R`X9bWPCWA2
+R2
+R0
+w1699376939
+8D:/SoC_document/CLA_DE2/../CLA/CLA_32bit_TB.v
+FD:/SoC_document/CLA_DE2/../CLA/CLA_32bit_TB.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1699411181.000000
+!s107 D:/SoC_document/CLA_DE2/../CLA/CLA_32bit_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/SoC_document/CLA_DE2/../CLA|D:/SoC_document/CLA_DE2/../CLA/CLA_32bit_TB.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+D:/SoC_document/CLA_DE2/../CLA
+R7
+n@c@l@a_32bit_@t@b
+vCLA_DE2
+R1
+!i10b 1
+!s100 1h:ogej@hT0ZC7a_YMX_E2
+I1bDn[I]RPN?3T38eF47]i0
+R2
+R0
+w1699276200
+8D:/SoC_document/CLA_DE2/CLA_DE2.v
+FD:/SoC_document/CLA_DE2/CLA_DE2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/SoC_document/CLA_DE2/CLA_DE2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/SoC_document/CLA_DE2|D:/SoC_document/CLA_DE2/CLA_DE2.v|
+!i113 1
+R5
+R6
+R7
+n@c@l@a_@d@e2
+vfull_adder
+R1
+!i10b 1
+!s100 ]7E2bAJIY[2X4NOHc=5j<3
+I2g4Yd@cLno];[6DGgPzb60
+R2
+R0
+w1698606888
+8D:/SoC_document/CLA_DE2/full_adder.v
+FD:/SoC_document/CLA_DE2/full_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/SoC_document/CLA_DE2/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/SoC_document/CLA_DE2|D:/SoC_document/CLA_DE2/full_adder.v|
+!i113 1
+R5
+R6
+R7

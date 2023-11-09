@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Nov 08 11:18:41 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : CLA_DE2
+Top-level Entity Name : CLA_DE2
+Family : Cyclone IV E
+Total logic elements : 3,490
+    Total combinational functions : 2,373
+    Dedicated logic registers : 2,362
+Total registers : 2362
+Total pins : 2
+Total virtual pins : 0
+Total memory bits : 282,368
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
